@@ -1,0 +1,25 @@
+
+{% extends 'base.html' %}
+
+{% block head %}
+	<title>Web App</title>
+{% endblock %}
+
+{% block body %}
+	<center><h1>Enter Your Code!</h1></center>
+
+<div id="index">
+<center>
+
+	<textarea rows="20" cols="80" name="code" form="codeform">{{content}}</textarea>
+
+	<form action="/" method="POST" id="codeform">
+		<input type="submit" value="Execute">
+	</form>	
+
+	<p>{{lang}}</p>
+	<pre>{{output}}</pre>
+
+</center>
+</div>
+{% endblock %}
