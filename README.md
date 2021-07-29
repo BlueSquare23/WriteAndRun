@@ -3,6 +3,8 @@
 Main Idea: Enter almost any arbitrary code into a textbox on the website and
 have the webapp automatically detect, run, and return the code's output!
 
+* [See it in action!](https://youtu.be/1vbKLqb0Lsw)
+
 ## Installation
 
 Run the following to install the Flask app in your present working directory.
@@ -21,7 +23,7 @@ have an API key from them you'll want to put it in a file named .env
 
 * File: .env
 ```
-LGO_API_KEY=simX************************
+ALGO_API_KEY=simX************************
 ```
 
 ## Overview
