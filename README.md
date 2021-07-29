@@ -1,7 +1,7 @@
 # Detect and Run Arbitrary Code!
 
-Main Idea: Enter almost any arbitrary code into a textbox on a website and have
-the webapp automatically detect, run, and return the code's output!
+Main Idea: Enter almost any arbitrary code into a textbox on the website and
+have the webapp automatically detect, run, and return the code's output!
 
 ## Installation
 
