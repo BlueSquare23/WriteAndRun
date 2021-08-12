@@ -69,4 +69,4 @@ def query_rce(language, content):
 
 # Run the app, w/ debug
 if __name__ == "__main__":
-	app.run(debug=True)
+	app.run(debug=False)

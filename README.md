@@ -17,9 +17,9 @@ source venv/bin/activate 	# Virtual Env Optional
 pip3 install -r requirements.txt
 ```
 
-After installing the app you'll need to obtain an free API by [signing up for
-an Algorithmia account here](https://teams.algorithmia.com/signup). Once you
-have an API key from them you'll want to put it in a file named .env
+After installing the app you'll need to obtain a free API key by [signing up
+for an Algorithmia account here](https://teams.algorithmia.com/signup). Once
+you have an API key from them you'll want to put it in a file named .env
 
 * File: .env
 ```
